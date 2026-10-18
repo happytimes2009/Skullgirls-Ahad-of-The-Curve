@@ -19,3 +19,6 @@ Currently have restored:
   Mike Z's Soviet voice pack
   
   Original combo callouts
+
+
+Shoutout to Skullgirls Community's Cut for the archive verification bypass code I shamelessly stole from SkullLoader <3
