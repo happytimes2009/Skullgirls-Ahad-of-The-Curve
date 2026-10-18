@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "patchId": "combo-original-2023-v1",
+  "modName": "AOTC_Combo_Original",
+  "targetArchive": "core",
+  "targetEntry": "core/localization/en_loc.json",
+  "sourceBytes": 833546,
+  "sourceSHA256": "1d63b1e7b669b8653f7434e2f35e0a698ef7a4fba4f3ac2c8159b1355ff62fc7",
+  "restoredBytes": 833551,
+  "restoredSHA256": "606eebfdd71814118b9f6e59662e492fa0d046f1bec082495e49d78fe749cbc4",
+  "restore": {
+    "Combo_16": "SPIFFY",
+    "Combo_17": "MILQUETOAST",
+    "Combo_18": "BARELY LEGAL"
+  }
+}

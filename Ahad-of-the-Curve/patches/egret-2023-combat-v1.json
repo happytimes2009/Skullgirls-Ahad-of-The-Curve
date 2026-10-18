@@ -1,0 +1,57 @@
+{
+  "id": "aotc-egret-65-v1",
+  "scope": "Black Egret combat sprites within modern Parasoul ART/FOIT; not Parasoul's own armband",
+  "historicalSource": "April 2023 pre-censorship",
+  "restoredComponents": 65,
+  "modifiedPixelComponents": 48,
+  "historicalTileComponents": 17,
+  "restoredTiles": 22,
+  "files": [
+    {
+      "name": "AOTC_BlackEgret_Combat_Test.lua",
+      "sha256": "813e9d311b1924f63ee87b5581dd7ecf547587e25ddc7230bafdad924b306348",
+      "bytes": 1464,
+      "target": "mods/AOTC_BlackEgret_Combat_Test.lua"
+    },
+    {
+      "name": "parasoul.art",
+      "sha256": "345bdeabf617dec8adbe32da17e92afb18eb50ec5f09543f40f1e55fe0cd9f34",
+      "bytes": 20202532,
+      "target": "mods/AOTC_BlackEgret_Combat_Test/parasoul.art"
+    },
+    {
+      "name": "parasoul.foit",
+      "sha256": "d8b4fb3cd9ed199a2e3b13a643b00139caf409f05eae07ddfe2c5a18f37d2b36",
+      "bytes": 2740790,
+      "target": "mods/AOTC_BlackEgret_Combat_Test/parasoul.foit"
+    }
+  ],
+  "modernEntries": [
+    {
+      "archive": "characters-art.gfs",
+      "entry": "characters/parasoul.art",
+      "sha256": "4138621cd2c1b85021627c0d968683aa09d7273b92dd1814d3e6d0c0494f6bb5",
+      "bytes": 16654833
+    },
+    {
+      "archive": "characters-foits.gfs",
+      "entry": "characters/parasoul.foit",
+      "sha256": "000b9114756f26bba973ef90f72fb585ad39db1175717e0144f496fedfbc9fd2",
+      "bytes": 2740790
+    }
+  ],
+  "derivedEntries": [
+    {
+      "archive": "characters-art.gfs",
+      "entry": "characters/parasoul.art",
+      "sha256": "345bdeabf617dec8adbe32da17e92afb18eb50ec5f09543f40f1e55fe0cd9f34",
+      "bytes": 20202532
+    },
+    {
+      "archive": "characters-foits.gfs",
+      "entry": "characters/parasoul.foit",
+      "sha256": "d8b4fb3cd9ed199a2e3b13a643b00139caf409f05eae07ddfe2c5a18f37d2b36",
+      "bytes": 2740790
+    }
+  ]
+}

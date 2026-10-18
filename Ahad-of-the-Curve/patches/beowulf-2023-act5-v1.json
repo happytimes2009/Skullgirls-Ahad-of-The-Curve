@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "id": "beowulf-2023-act5-v1",
+  "description": "Isolated April 2023 Beowulf Act 5 capture artwork restoration test. Five DDS textures only; no story script replacement.",
+  "gameArchive": "story_art",
+  "sourceArchive": "historical April 2023 Steam depot 245171 data01/ui-storyart.gfs",
+  "targetArchive": "modern data01/story_art.gfs via SkullLoader data02 copy",
+  "historicalPrefix": "temp/story_export_art/ArcadeModeTextures/Beowulf/",
+  "modernPrefix": "story_art/Cinematics/Beowulf/",
+  "reportSubfolder": "2023/changed-story-art",
+  "storyScript": "BeowulfAct5.ini",
+  "scriptsChangedForCensorship": false,
+  "artwork": [
+    {
+      "file": "13.dds",
+      "historicalSha256": "ef92cc052ea7c729fdb48378547b3feef4bc963d62bc191c92122f1ee3545fe7",
+      "currentSha256": "0701f9e71722a3190580575f4e19722c33ee0fd3c29ed10a5b482e0a2100e022",
+      "historicalSize": 460928,
+      "currentSize": 460928,
+      "width": 1280,
+      "height": 720,
+      "fourCC": "DXT1"
+    },
+    {
+      "file": "13_1.dds",
+      "historicalSha256": "edff04c88022a67c9d58720dace0b1549c923c0cbea73d22de539e26b36961d2",
+      "currentSha256": "9dc46e9b401e69527acdd6305f293efeecca07f9712ecc97e4e299b3731b86dd",
+      "historicalSize": 460928,
+      "currentSize": 460928,
+      "width": 1280,
+      "height": 720,
+      "fourCC": "DXT1"
+    },
+    {
+      "file": "14.dds",
+      "historicalSha256": "d0ab3192c8d3fc2086da63a5111344556c2e1a37de2e3f047b4d21b5b2f32d47",
+      "currentSha256": "330dfcdf8523b53459541fffd8ea5065062dff3cf6e2b18ed40267d637d5b34a",
+      "historicalSize": 460928,
+      "currentSize": 460928,
+      "width": 1280,
+      "height": 720,
+      "fourCC": "DXT1"
+    },
+    {
+      "file": "15.dds",
+      "historicalSha256": "561be1cc8dc22675581a4e1c99448bdf8dec4c7db5556509824a7fe2d9f03bca",
+      "currentSha256": "011ad8b5d70fcd43d7c46737b9cd84e3781a4059bc9a39cb8a5be6ad14f93caf",
+      "historicalSize": 460928,
+      "currentSize": 460928,
+      "width": 1280,
+      "height": 720,
+      "fourCC": "DXT1"
+    },
+    {
+      "file": "16.dds",
+      "historicalSha256": "b56192a768bbb9bddef427fa9ffe1c07c79583519e6c282ea2db60d5c62a98d1",
+      "currentSha256": "cb206033470e4e4570f1e53c7d5bf96b9768b5effeba486a146ca2ef614ba00b",
+      "historicalSize": 460928,
+      "currentSize": 460928,
+      "width": 1280,
+      "height": 720,
+      "fourCC": "DXT1"
+    }
+  ],
+  "notice": "Do not modify BeowulfVsBoss.ini: modern BossMarie updates are unrelated to censorship. Verify loader-produced data02 archive before promoting to production."
+}

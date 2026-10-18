@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "patchId": "double-2023-ending-v1",
+  "description": "Isolated Double story-mode ending visual test. Not yet a production restoration.",
+  "source": "April 2023 Steam depot 245171 / ui-storyart.gfs",
+  "gfsName": "story_art",
+  "target": "story_art/Cinematics/Double/End/05.dxt1.dds",
+  "historicalPath": "temp/story_export_art/ArcadeModeTextures/Double/End/05.dxt1.dds",
+  "reportRelative": "2023/changed-story-art/End/05.dxt1.dds",
+  "historicalSHA256": "561079761d44764872b7790058644d6aa323612cd25147b227553aed13b71e6b",
+  "historicalLength": 4732800,
+  "historicalDDSFormat": "DXT5",
+  "currentSHA256": "1e2ea137569b9518f8db3d3356d3145eb073641a6d7a04c9d7421ba5b1700bf3",
+  "currentLength": 2366464,
+  "currentDDSFormat": "DXT1",
+  "width": 1216,
+  "height": 3892,
+  "scriptsIdentical": true,
+  "notes": "All 21 Double story scripts are byte-identical. Other Double DDS entries are unchanged or show small compression/metadata differences. Do not replace unrelated modern art."
+}

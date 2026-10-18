@@ -1,0 +1,404 @@
+{
+  "schema": 1,
+  "releaseSection": "digital-art-compendium-2023",
+  "targetFolder": "Digital Art Compendium",
+  "note": "Approved historical artwork. Preserve modern Marie_Icon and TH_Marie_Neutral.",
+  "excludeModernPaths": [
+    "Character Art/Marie/Icons/Marie_Icon.png",
+    "Story/Talking Heads/marie/TH_Marie_Neutral.png"
+  ],
+  "assets": [
+    {
+      "path": "ArcadeSticks/ArcadeStick_Double_LRG.png",
+      "status": "Modified",
+      "historicalSize": 6123417,
+      "historicalSHA256": "c2ff08e607c761836e924baf4beca442399bba85e6ec3d525d3c22430b289715",
+      "currentSHA256": "35ec2fb1eb04f2fd881086ec666dbf42eaee9cd28d57372ac048192ea2e73931"
+    },
+    {
+      "path": "ArcadeSticks/ArcadeStick_FilmstripBlue_LRG.png",
+      "status": "Modified",
+      "historicalSize": 4213821,
+      "historicalSHA256": "56de15fa536b4d4a147114766438130f8480e68360cd11197e4ebcabb90fcc2a",
+      "currentSHA256": "d3c2d8a6e91e3fe1eaf0ae2610742d6ae9ff5706bf3557325ff79c35bd45dfbd"
+    },
+    {
+      "path": "ArcadeSticks/ArcadeStick_Posters_LRG.png",
+      "status": "Modified",
+      "historicalSize": 5791017,
+      "historicalSHA256": "a6667fbdaa3d62a7cab027a0d505a7d768cc31953138b4c569307d22462ef78a",
+      "currentSHA256": "1c2c5f563b209f3381f4e61d6072ce1ae9dc32edd3d9b8685a8ea6b194e93599"
+    },
+    {
+      "path": "ArcadeSticks/ArcadeStick_Verticals_LRG.png",
+      "status": "Modified",
+      "historicalSize": 7605789,
+      "historicalSHA256": "5559ab18e5d99385667d8a506f330d3683dbee3869988c9488d5794b79ca8069",
+      "currentSHA256": "d84d1c8a6f27bceb31202edfe165a5208f669c964200a233b35c5a78b44c65b9"
+    },
+    {
+      "path": "Character Art/Double/Double_ActionShot_LRG.png",
+      "status": "Modified",
+      "historicalSize": 2699897,
+      "historicalSHA256": "e45601ad0944f02d587637ccb0dcd57214f31a605d25d312d950326186ae48f4",
+      "currentSHA256": "dc590a7f7806e5478cb29ff2b6a9910b0e096bbec0843a3da75d34760e51b6e9"
+    },
+    {
+      "path": "Character Art/Others/Adam_Lineup_LRG.png",
+      "status": "Modified",
+      "historicalSize": 402184,
+      "historicalSHA256": "69ee285ceeef031f22c4f0848bf6e3f665a27675e43bb20d113fcb69370b074d",
+      "currentSHA256": "0f89f77c1a94c18d44a5e099d3cfaaeac4700d023dc0b3e7810701199502c89a"
+    },
+    {
+      "path": "Character Art/Others/Molly_Lineup_LRG.png",
+      "status": "Modified",
+      "historicalSize": 262279,
+      "historicalSHA256": "73e89b4960769ab17b90d8fe4ec8d05e14292d3660cd6ce7bb231fadb2d3074e",
+      "currentSHA256": "2a06b7da0b867c9d35ccb2ec0276c0744900e2a55403a95856258c6bc85a5426"
+    },
+    {
+      "path": "Character Art/Others/Panzerfaust_Lineup_LRG.png",
+      "status": "Modified",
+      "historicalSize": 1699381,
+      "historicalSHA256": "54948b4e6b907ccc6bb3ab93f4f8baacb2c429025e2333c13ffe9e6f60f9206a",
+      "currentSHA256": "ffc7b81246bb4b3b5fad98687739d27e68e9ae7428fc467b62df8e9aeaa68ef2"
+    },
+    {
+      "path": "Character Posters/Keyart_Poster_Cast_LRG.png",
+      "status": "Modified",
+      "historicalSize": 3737495,
+      "historicalSHA256": "de0ff21adb6377e2b1313248bf2cbd76e4aa975885c7f52716a5398d4cebd862",
+      "currentSHA256": "b85c2bd26c11ba08a22b5e8940eb4e48941191ac63eb3e915037407d1db09cfe"
+    },
+    {
+      "path": "Character Posters/Keyart_Poster_Parasoul_LRG.png",
+      "status": "Modified",
+      "historicalSize": 5231496,
+      "historicalSHA256": "40fe9eb1c31850af89eee6d3b4901eac68a2e1401fd3c87f0a7b4f8b3b9a3e5e",
+      "currentSHA256": "18d8824f4790e5475b113cd1e1b6d7b9b55395ed5d35c5fa68be4ecebdddcae5"
+    },
+    {
+      "path": "Keyart/Keyart_Background_LRG.png",
+      "status": "Modified",
+      "historicalSize": 7257531,
+      "historicalSHA256": "3925d244bb7e77c642a702da85273a66ddb9e8174dcbf564777dc7296034f2f5",
+      "currentSHA256": "35ffc3034bd511abced74745b991bd1f2fd7e1972756be4cc18d51796bbd38f3"
+    },
+    {
+      "path": "Keyart/Keyart_Filia_vs_Peacock_1_LRG.png",
+      "status": "Modified",
+      "historicalSize": 8040534,
+      "historicalSHA256": "653cea836584420bb455521fae5502453467d08b212bf871804c7d4d11ae788c",
+      "currentSHA256": "5a749f611bf31a2752a79feb02126928f0fb37d612636749e07ec345329b6abe"
+    },
+    {
+      "path": "Production Art/ProductionArt_Cancer_Drive_Mariel_LRG.png",
+      "status": "Removed",
+      "historicalSize": 4308821,
+      "historicalSHA256": "70550699c59473920880e70959aca6fcc627a6e0b068567d0cdc16fac4724a48",
+      "currentSHA256": null
+    },
+    {
+      "path": "Production Art/ProductionArt_Parasoul_BlackEgret_LRG.png",
+      "status": "Modified",
+      "historicalSize": 2196561,
+      "historicalSHA256": "7af69c384fc79d80aa19632fea869d0784b10ef24462d2b2393b2b502a6e1185",
+      "currentSHA256": "6734433b15ebd2561485db9b35911d2507094ad3b3c8bbd20b4fa325541b4797"
+    },
+    {
+      "path": "Production Art/ProductionArt_Parasoul_Egrets_LRG.png",
+      "status": "Modified",
+      "historicalSize": 1670145,
+      "historicalSHA256": "3ee0b061ad6e4a21e561e986db8b23e996fdb12d6868ec4a302104789d7c792b",
+      "currentSHA256": "00f3626ece65cc4b20c657c2c857599a3519b8b4ca673518b7da7cc56424c118"
+    },
+    {
+      "path": "Story/Story Mode Art/Beowulf/PT02_05_LRG.png",
+      "status": "Modified",
+      "historicalSize": 2145601,
+      "historicalSHA256": "7144f55f3d95a3a3cf4defaf1f012f9936979f0878206c6dc905c6a9a7f47271",
+      "currentSHA256": "9cba974318335b6084f7b267e43ddf2720a8bc2b5266e220ed84656deb872bd1"
+    },
+    {
+      "path": "Story/Story Mode Art/Beowulf/PT02_06_LRG.png",
+      "status": "Modified",
+      "historicalSize": 1871848,
+      "historicalSHA256": "d120629e5cc2a4ef1a5a1b7a9d87434750d1c507162e47f2b392586791200092",
+      "currentSHA256": "bb2a9623ab1106f2f74cd128115b0d239151e3f488ed4127fb7d1a00ca4f6c74"
+    },
+    {
+      "path": "Story/Story Mode Art/Beowulf/PT02_07_LRG.png",
+      "status": "Modified",
+      "historicalSize": 2300886,
+      "historicalSHA256": "365b27744956e84f65cb7b02014f8f14c5add0aa79e44eebae152f15582ae75f",
+      "currentSHA256": "b3eed27dbf42378f64d9eb6951f88dc2cf26d4f411efa5ac7514eb6bcba8d088"
+    },
+    {
+      "path": "Story/Story Mode Art/Beowulf/PT02_08_LRG.png",
+      "status": "Modified",
+      "historicalSize": 2275509,
+      "historicalSHA256": "c7ab782ebd77cb7522ff143d771ab375eb5a15555b5cf93c74f0debe89702b66",
+      "currentSHA256": "37c5f00a248dbc183e8197239141f9afea951833aa85bae5602eb8d4bab806b2"
+    },
+    {
+      "path": "Story/Story Mode Art/Beowulf/PT02_09_LRG.png",
+      "status": "Modified",
+      "historicalSize": 2524444,
+      "historicalSHA256": "eaad5f843e6de41e8c7032e4e4df104c2ef387b0d7fbbca27a9d51e9a4d9c788",
+      "currentSHA256": "091c0093e7c7c5221b4a234ce511229ca6796f0bebf3d41e72fa35a51e8a8f8a"
+    },
+    {
+      "path": "Story/Story Mode Art/Beowulf/PT03_02_LRG.png",
+      "status": "Modified",
+      "historicalSize": 2492603,
+      "historicalSHA256": "8d74fff98e8e588c202f62fc1e23e3e470eaba1d3cef08880206279a854ae3a8",
+      "currentSHA256": "59b422b0f79ac548182470a3c7d12d6a8678052ce0fa20ec4bd064388f553cfb"
+    },
+    {
+      "path": "Story/Story Mode Art/BigBand/BigBand_Story_03A_LRG.png",
+      "status": "Removed",
+      "historicalSize": 3649642,
+      "historicalSHA256": "0e2e93b806d1d9c1551ce8dd2ea28ec2e841f145a36105c82691b789ee566baf",
+      "currentSHA256": null
+    },
+    {
+      "path": "Story/Story Mode Art/BigBand/BigBand_Story_03B_LRG.png",
+      "status": "Removed",
+      "historicalSize": 2637850,
+      "historicalSHA256": "dcd5a967b7a569cfda0d2d4c278e6a917932f417f1a3df194fbe10b55c3c9a97",
+      "currentSHA256": null
+    },
+    {
+      "path": "Story/Story Mode Art/Double/End/05.dxt1.png",
+      "status": "Modified",
+      "historicalSize": 4907452,
+      "historicalSHA256": "8d071394168bfd344bb71495085bd793e4a4dc7d9c7d5b3df4cd9e9f00e93cf9",
+      "currentSHA256": "446ab8fb7a57fe2c57d145c05cb3fe90fadef9e43745837ca48b13ea98a63cbf"
+    },
+    {
+      "path": "Story/Story Mode Art/Eliza/eliza_story_12_LRG.png",
+      "status": "Modified",
+      "historicalSize": 3359128,
+      "historicalSHA256": "a0807997e94ba24767307cbb54e1ed10765b673885bed1abea48fe4ef76746e7",
+      "currentSHA256": "ab86e695049a216035d39704613865e6a400b016dfae2a1b0f9ddd183bc2ff4f"
+    },
+    {
+      "path": "Story/Story Mode Art/Eliza/eliza_story_15A_LRG.png",
+      "status": "Modified",
+      "historicalSize": 2866521,
+      "historicalSHA256": "1c3ec8dcb6edad9bb2e21791807885f562efb9f722a436510b736bc96bc4fcff",
+      "currentSHA256": "1e99d31f5f8ebd4ee3432286cf9d8ae7056ddab160f6cafc3793847b685e22d4"
+    },
+    {
+      "path": "Story/Story Mode Art/Eliza/eliza_story_15B_LRG.png",
+      "status": "Modified",
+      "historicalSize": 3041033,
+      "historicalSHA256": "bb2ee2c66877058c620059a3ce5fd13d00d02022fe648382630326d04f50052b",
+      "currentSHA256": "e0f5fc23fd32cf69f59f880a78434d324ec44790dd50f5545359f20a4b7dfd06"
+    },
+    {
+      "path": "Story/Story Mode Art/Eliza/eliza_story_44B_LRG.png",
+      "status": "Modified",
+      "historicalSize": 2829295,
+      "historicalSHA256": "a87fccb35f1cb0262f2593196fd6af94015a5a1f5d2939fdd174058965d6bd7b",
+      "currentSHA256": "c26879f480a3c62a160c79f3d70232cc76daac201a9d56cad8f18b206e3af141"
+    },
+    {
+      "path": "Story/Story Mode Art/Eliza/eliza_story_45_LRG.png",
+      "status": "Modified",
+      "historicalSize": 6211447,
+      "historicalSHA256": "c742e023ddc2d34d2fc5aebb5241449fde3f68d261aabbc1a6b5160ee4958f75",
+      "currentSHA256": "94c5f6bcbe07985e00ed86fa6a9aa167983c6a1f789871d2a62866711936fa44"
+    },
+    {
+      "path": "Story/Story Mode Art/Filia/intro04a.dxt1.png",
+      "status": "Removed",
+      "historicalSize": 2187788,
+      "historicalSHA256": "66a83d8cc2c16142df395ee15d5a0b085e52fc2f37fc7d07726c1a9586ade1c7",
+      "currentSHA256": null
+    },
+    {
+      "path": "Story/Story Mode Art/Filia/intro04b.dxt1.png",
+      "status": "Modified",
+      "historicalSize": 1088357,
+      "historicalSHA256": "823710310af17ea8e7c7ad66509d8057f0e0af80728c248bd05df0b2d8db68d4",
+      "currentSHA256": "96e461ec9baf1eca811415d4818aec5de9ab5ca556841da3649f8f4552ccf76e"
+    },
+    {
+      "path": "Story/Story Mode Art/Filia/intro04c.dxt1.png",
+      "status": "Modified",
+      "historicalSize": 1087135,
+      "historicalSHA256": "0c63d9d7c003e9ffc77f4c2ccccb95043699248fc00d081e30e7c73aef4c7d4e",
+      "currentSHA256": "bed6812aadae1e8bd080f853a1b900800b8cb0d7ecf637e14784d2eee36332d2"
+    },
+    {
+      "path": "Story/Story Mode Art/Filia/intro10.dxt1.png",
+      "status": "Modified",
+      "historicalSize": 2090839,
+      "historicalSHA256": "a70efff40d4a8d22826f34a5bcf2e5c1d41a32680db5977b79a021af5fe56bb7",
+      "currentSHA256": "12a018e8ed1fcabf6e3a176979029ffcf4daa1c08be56047afc5c9e0826452e5"
+    },
+    {
+      "path": "Story/Story Mode Art/Parasoul/End/08.dxt1.png",
+      "status": "Modified",
+      "historicalSize": 527576,
+      "historicalSHA256": "c7d4bacfcc792c898fee1c9e0b64b5abd0b665869d9d514bbf93878aae11b984",
+      "currentSHA256": "e9fd8fa371048b908bc43fb767f11da9d9046df31e7415695a32781deda170fd"
+    },
+    {
+      "path": "Story/Story Mode Art/Parasoul/End/10.dxt1.png",
+      "status": "Modified",
+      "historicalSize": 593719,
+      "historicalSHA256": "4e3ac9a6e3076c3f038dfaa18de70464166fdc39a44598be2001f50888876c4e",
+      "currentSHA256": "e74101e9c7164bb8609173481f9d8c177b1e5b3acebf53e97948efde87d66892"
+    },
+    {
+      "path": "Story/Story Mode Art/Parasoul/Intro/02.dxt1.png",
+      "status": "Modified",
+      "historicalSize": 694025,
+      "historicalSHA256": "09dd01d93ee0ed3e212979bffcd3aa4e83d29d3d100b910c2127e3f862fd9d08",
+      "currentSHA256": "261b87cd34293aa7a3245fe1563ff56f91f34ad0a049d702eb1de41570163879"
+    },
+    {
+      "path": "Story/Story Mode Art/Parasoul/Intro/07.dxt1.png",
+      "status": "Modified",
+      "historicalSize": 1435842,
+      "historicalSHA256": "8e123625603ba895bedbf9f9429d86c66df07fd83570032db41f46ee3084e0b9",
+      "currentSHA256": "1e07ceac8e7296b1cb101ea3ca32c4768affde60bd3838d30627b4616c1bdc7c"
+    },
+    {
+      "path": "Story/Story Mode Art/Parasoul/Intro/08.dxt1.png",
+      "status": "Modified",
+      "historicalSize": 774697,
+      "historicalSHA256": "f79a43eb616b470f135634f5cc2128c6671226881d7b397894fa74e95c77a76c",
+      "currentSHA256": "40e9fcd6b87e4dae4a7397abc7bbb2b1d15f3b2520bddba0510db45c8a812fce"
+    },
+    {
+      "path": "Story/Story Mode Art/Umbrella/Umbrella_03c.png",
+      "status": "Modified",
+      "historicalSize": 4330447,
+      "historicalSHA256": "b012d7138bad33ee36a0f3508995b8d5c4b19bf437997a63e34a76cd193d0f31",
+      "currentSHA256": "01ce9450c07d770ea093adb9c727b8c5e030e79a6c13b28a22f2849441521e72"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_Aroused.png",
+      "status": "Modified",
+      "historicalSize": 216370,
+      "historicalSHA256": "8fd002e4cd8ced4ad0da14d280f50201a633db6b9130b8b24b035b7f77abd9c9",
+      "currentSHA256": "8ba35443c32daca5c264f7d1164df4b13d17377004cea36a4c991a41e1c1a8e7"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_Battle.png",
+      "status": "Modified",
+      "historicalSize": 265739,
+      "historicalSHA256": "e0de0ae3563ab0b69a68dbe799cd2d2858329a44fc558609a8de89830146497d",
+      "currentSHA256": "a6672e472ab7f0c02c13a8185d187e7ac2497ef80791a8da40cbd95eb3364503"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_Condescending.png",
+      "status": "Modified",
+      "historicalSize": 257470,
+      "historicalSHA256": "51b8829883d21da8815e94e0ddcc55039af2de0b536c090365c92a928f9da45f",
+      "currentSHA256": "80253ca1334fb41ec85dc4034078a01365e14eb3ecb038d21afffd7d152d3156"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_Evil.png",
+      "status": "Modified",
+      "historicalSize": 252793,
+      "historicalSHA256": "92d1d5b89a6efcf6822a3e26db4465ba538a33dbdb870303824c0b6cb7c94b47",
+      "currentSHA256": "8603f3198aebd9fa5190207633fbca13e50d08e4c1b758fbf2169d76b42e5d57"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_Frustrated.png",
+      "status": "Modified",
+      "historicalSize": 257299,
+      "historicalSHA256": "98312bb246430ff79f6267008aaf4211e81f9549c8c58191a29666f061aae65b",
+      "currentSHA256": "1e196da61257a810b58774b0460a805e3d74fb4432f3eae19a5c3f93343dbe65"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_Hurting.png",
+      "status": "Modified",
+      "historicalSize": 218649,
+      "historicalSHA256": "e6d052f4bc52b0ab4313dd5b2c7fccfaddb997e0650f0199422c1cba1f74d21c",
+      "currentSHA256": "b7cadeceefd8cd07910139ff4de733264bc0092eb685fdcfe67bcf00a911e9b0"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_Intrigued.png",
+      "status": "Modified",
+      "historicalSize": 266108,
+      "historicalSHA256": "58f1e73c14c1e73a059cb14ed4e36c6990572cb0ef1cf3d61382aadf1ad817cb",
+      "currentSHA256": "2a044be3bbf2d069fda6754978c2cd394b820c5d5b66eaadd40d29ec4a23bdc6"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_LaughToSelf.png",
+      "status": "Modified",
+      "historicalSize": 265176,
+      "historicalSHA256": "0bcf36aef539c996b7cfa62e2e366ac08cde4c31f93d791bda1556a8c6a646d8",
+      "currentSHA256": "1bb42a41e5e58d09c61aebe17a16ab6719f1c51c608ea3cd3ceaa680dc48b28f"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_Neutral.png",
+      "status": "Modified",
+      "historicalSize": 263601,
+      "historicalSHA256": "0daf310e91f22fa6bee5c30e18e634f60e0ba12833adc39e318e6b3c8157f00c",
+      "currentSHA256": "6732b3e5675b8f6085ce6a16dd9dd2c156b545aad60b4892feec8ff68a5da716"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_NeutralESRB.png",
+      "status": "Modified",
+      "historicalSize": 267577,
+      "historicalSHA256": "91a96b5617834171c52bdcfe333a9ab376044a65a1769db7bf34b83c0d5c7b36",
+      "currentSHA256": "42937ae9f1e10eb2a65ccb1a47427dc7bb2d2a08bb5644de4c490479b157193b"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_Sadistic.png",
+      "status": "Modified",
+      "historicalSize": 264369,
+      "historicalSHA256": "df6a4df43e3ae31b45fe851698692edeabf393b7b7c663223cc23ceeedb2a384",
+      "currentSHA256": "e2b61b4cac22eb489e78f41c781eb7030efd7c35029d5fad38c106bd82ec84a3"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_SexySeductive.png",
+      "status": "Modified",
+      "historicalSize": 216405,
+      "historicalSHA256": "fa02546dee5a4538b918be8065995772894c4a9ebf151420cd6015c6817b32b7",
+      "currentSHA256": "7cbeb1ae39368dde174c3ad4323d966420d27054ee6fdb2bddbd2dbd02d687d0"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_ShockedWithSweat.png",
+      "status": "Modified",
+      "historicalSize": 261579,
+      "historicalSHA256": "fb695c90cee1b2fc85beebeb6daad0c8eef3a37775399cda839be2df53491d1a",
+      "currentSHA256": "b15194b2f5f9866adefb61b05707d3ea4533db48a1b414b0b7d29d24626b7cf4"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_Smile.png",
+      "status": "Modified",
+      "historicalSize": 265689,
+      "historicalSHA256": "be3445a8886066591e38181745db3cb3130c444e7e76a007e2dc08cf0e759501",
+      "currentSHA256": "43f08f1b96c52cd006250957ff3c8dee41b2197b85e2b338ec962afefd49c728"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_Solemn.png",
+      "status": "Modified",
+      "historicalSize": 243881,
+      "historicalSHA256": "e6b9063c405beedee50206da491c817dec67c892c05ea8d2f529a04a02cd55c2",
+      "currentSHA256": "87ef1f9d0bb7b7f2f43957fe7d69fda639daf2265ef5be7d0ef0a918dbda7fc4"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_Surprised.png",
+      "status": "Modified",
+      "historicalSize": 259332,
+      "historicalSHA256": "cfa86be5d22c7c6a22cedb35b8530b88dd3b65c7a4aff0e6f970d62a70866369",
+      "currentSHA256": "82a13b12ddd11929ca1274f2dd4d380db33714e084b08e9063b9273ac79ff99e"
+    },
+    {
+      "path": "Story/Talking Heads/valentine/TH_Valentine_Tense.png",
+      "status": "Modified",
+      "historicalSize": 265614,
+      "historicalSHA256": "3e3882301a47950d5c8b3f6b40c409b6c0b94576225952907fc5b15be53a8dcf",
+      "currentSHA256": "bf655010438420c9d6bd28672f3cfccccb85418a955efc0299eae09d78603dbf"
+    }
+  ]
+}
